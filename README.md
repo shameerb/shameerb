@@ -15,6 +15,4 @@ Hi there, I am Shameer 👋
   - Microservices
   - Developer Tooling
   - Infrastructure / Devops
-
-- 📫 How to reach me: shameer `dot` baramy `at` gmail `dot` com
 </pre>
