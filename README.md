@@ -9,7 +9,6 @@ I am a seasoned software engineer with a deep focus on backend development and d
 - MIT 6.824 Labs - Distributed Systems
 -->
 
-### Let's Talk About 💬
 Feel free to reach out to me for discussions or queries on:
 - Backend Engineering
 - Web Services
