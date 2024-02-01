@@ -10,8 +10,4 @@ I am a seasoned software engineer with a deep focus on backend development and d
 -->
 
 Feel free to reach out to me for discussions or queries on:
-- Backend Engineering
-- Web Services
-- Microservices
-- Developer Tooling
-- Infrastructure / DevOps
+- Backend Engineering, Web Services, Microservices, Developer Tooling, Infrastructure / DevOps
