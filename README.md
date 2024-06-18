@@ -1,5 +1,4 @@
 - fullstack software engineer 
-- distributed systems, web services, platform engineering, dev tooling, infra, devops
 - led, mentored, and managed teams of full-stack and backend engineers across multiple organizations
-- interested in distributed systems, microservices, platform engineering, systems programming, knowledge management, artificial intelligence
+- interested in distributed systems, web services, microservices, platform engineering, systems programming, dev tooling, infra, devops, knowledge management, artificial intelligence
 - skills: java, python, golang, nodejs, typescript, vuejs, spring, fastAPI
