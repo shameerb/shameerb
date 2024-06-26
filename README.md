@@ -2,9 +2,3 @@
 - led, mentored, and managed teams of full-stack and backend engineers across multiple organizations
 - interested in distributed systems, web services, microservices, platform engineering, systems programming, dev tooling, infra, devops, knowledge management, artificial intelligence
 - skills: java, python, golang, rust, nodejs, typescript, vuejs, spring, fastAPI
-- Projects
-  - [task-scheduler](https://github.com/shameerb/task-scheduler)
-  - [go-pubsub](https://github.com/shameerb/go-pubsub)
-  - [tiny-lb](https://github.com/shameerb/tiny-lb)
-  - [simple-chat](https://github.com/shameerb/simple-chat)
-  - [go-todo](https://github.com/shameerb/go-todo)
