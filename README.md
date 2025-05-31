@@ -1,4 +1,4 @@
 - fullstack software engineer 
-- led, mentored, and managed teams of full-stack engineers across multiple organizations
+- led, mentored, and managed teams of full-stack engineers across various organizations
 - interested in distributed systems, web services, microservices, platform engineering, systems programming, dev tooling, infra, devops, knowledge management, artificial intelligence
 - skills: java, python, golang, rust, nodejs, typescript, vuejs, spring, fastAPI
